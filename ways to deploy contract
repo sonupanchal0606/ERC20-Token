@@ -16,7 +16,8 @@ method 3) to deploy on rinkeby test network
 1) copy paste the contract on remix IDE
 2) login on https://www.myetherwallet.com/ and connect to wallet with metamask
 3) you can deploy contract directly with the help of byte code that you can copy from remix ide after compilation
-4) 
+4 )when you paste the bytecode. delete everything but object value
+5) copy token addrress from etherscan 
 
 
 method 4)
