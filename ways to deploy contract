@@ -1,0 +1,15 @@
+method 1)
+--------
+1) copy code in remix ide 
+2) select JavaScript VM
+3) compile and deploy
+
+method 2)
+--------
+1) copy paste code on remix ide
+2) select environment injected web3
+3) open metamask. select the rinkiby test network.
+4) compile and deploy the contract
+
+method 3)
+---------
